@@ -1,0 +1,8 @@
+{
+  "name": "ShopSmart AI - India",
+  "description": "An intelligent shopping assistant to compare prices, analyze product history, and find the best deals across Indian e-commerce sites using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
